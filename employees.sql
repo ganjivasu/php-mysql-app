@@ -42,8 +42,8 @@ INSERT INTO `employees` (`id`, `name`, `address`, `salary`) VALUES
 (1, 'satish', 'Bangalore', 10000),
 (2, 'Srinivas', 'Hyderabad', 20000),
 (3, 'Sashi', 'Bangalore', 30000),
-(4, 'Sandeep', 'Dehradun', 40000);
-
+(4, 'Sandeep', 'Dehradun', 40000),
+(5, 'Navjit', 'Padhwara', 50000);
 --
 -- Indexes for dumped tables
 --
