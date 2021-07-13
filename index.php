@@ -52,6 +52,7 @@
                 <a href="#contact" class="btn btn-success">Contact</a>
                 <a class="btn btn-warning" href="#signup">Sign Up</a>
                 <a href="#about" class="btn btn-secondary">Login</a>
+                <a href="#about" class="btn btn-secondary">Careers</a>
             </div>
         </div>
     </nav>
